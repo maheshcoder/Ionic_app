@@ -1,0 +1,12 @@
+/* Login.css */
+.login-button {
+    border-radius: 25px;  /* Adjust the radius for more or less roundness */
+    border: 2px solid #3880ff;  /* Border color (you can change this) */
+    background-color: #3880ff;  /* Button background color */
+    color: white;  /* Button text color */
+  }
+  
+  .login-button:hover {
+    background-color: #3171e0;  /* Change color on hover */
+  }
+  
